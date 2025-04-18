@@ -130,7 +130,7 @@ const Sidebar = ({ userInfo }) => {
             }}
           >
             <a
-              href={`https://salla-themeview.vercel.app/`}
+              href={`https://sallatemeview.vercel.app/`}
               target="_blank"
               className="text-white"
             >
